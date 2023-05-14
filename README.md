@@ -1,15 +1,16 @@
-## Watch this Project [LIVE](https://gpt3-react-frontend-by-bipinsitoula.netlify.app/)
+## Watch [LIVE](https://gpt3-react-frontend-by-bipinsitoula.netlify.app/)
 
-# **Title: AI Image Generator**
+# **Title: GPT3-Frontend Landing page**
 
 # ![](aiimagegenerator.gif)
 
 ## **Description**
 
 This is a beautiful fully mobile responsive website that was built using
-\`create-react-app\`.
+``create-react-app``
+Try the [LIVE](https://gpt3-react-frontend-by-bipinsitoula.netlify.app/) project to examine the responsiveness.
 
-This is just a landing page with no other functionality added on the
+This is a landing page with no other functionality added on the
 website as this is just a showcase to build fully responsive web
 applications.
 
@@ -46,7 +47,7 @@ the functionality is implemented using react.
 
 ## **Used Packages**
 
-\`react-icons\`
+``react-icons``
 
 ## **Owned by**
 
