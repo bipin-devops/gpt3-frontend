@@ -2,7 +2,7 @@
 
 # **Title: AI Image Generator**
 
-# ![](media/image1.gif){width="4.745138888888889in" height="2.8520833333333333in"}
+# ![](aiimagegenerator.gif)
 
 ## **Description**
 
