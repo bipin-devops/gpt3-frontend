@@ -2,7 +2,7 @@
 
 # **Title: GPT3-Frontend Landing page**
 
-# ![](aiimagegenerator.gif)
+# ![](gpt-frontend.gif)
 
 ## **Description**
 
