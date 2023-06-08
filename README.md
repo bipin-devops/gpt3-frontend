@@ -34,14 +34,10 @@ the functionality is implemented using react.
 
 2.  **React:** A popular framework for making UI/UX.
 
-3.  **Vite:** The application was created using Vite, a ***build tool***
-    that aims to provide a faster and leaner development experience for
-    modern web projects.
-
-4.  **CSS BEM Model:** The CSS classes are named as per BEM Model, in
+3.  **CSS BEM Model:** The CSS classes are named as per BEM Model, in
     which block, element and modifier classes are named as per standard.
 
-5.  **Media Queries:** Media queries have been used to implement
+4.  **Media Queries:** Media queries have been used to implement
     responsive design. All the possible device sizes have been handled
     using media queries.
 
